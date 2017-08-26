@@ -1,6 +1,2 @@
 Added remote file.txt
-HEAD
 Added a line by Git
-
-Added a line by Git_Clone
-8bb8ea3425f52ce718d6df654408ea544dc5e954
